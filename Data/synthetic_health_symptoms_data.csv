@@ -1,0 +1,301 @@
+Symptom,Condition,Severity,Duration,Possible Causes,Treatment,Age Group,Region
+Fatigue,Chronic Fatigue Syndrome,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Tropical
+Fatigue,COVID-19,Severe,1 week,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Tropical
+Shortness of breath,Pneumonia,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Tropical
+Cough,Flu,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Children,Tropical
+Shortness of breath,COVID-19,Severe,1 week,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Seasonal
+Headache,Sinusitis,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Seasonal
+Shortness of breath,Pneumonia,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Seasonal
+Fatigue,Anemia,Mild,2 days,"Viral infection, Bacterial infection, Stress","Iron supplements, Rest",Adults,Seasonal
+Nausea,Food Poisoning,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Hydration, Anti-nausea medications",Adults,Seasonal
+Fatigue,Anemia,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Iron supplements, Rest",Elderly,Seasonal
+Runny Nose,Cold,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Adults,Seasonal
+Vomiting,Gastroenteritis,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Children,Cold climates
+Fever,Malaria,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Seasonal
+Cough,Cold,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Children,Seasonal
+Fatigue,Chronic Fatigue Syndrome,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Global
+Fatigue,Anemia,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Iron supplements, Rest",Adults,Seasonal
+Shortness of breath,Asthma,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Tropical
+Sore Throat,Tonsillitis,Mild,1 day,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Global
+Body Ache,COVID-19,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Cold climates
+Body Ache,Flu,Mild,1 day,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Elderly,Cold climates
+Headache,Sinusitis,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Global
+Body Ache,COVID-19,Mild,1 day,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Elderly,Global
+Fever,Flu,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Adults,Cold climates
+Cough,Flu,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Children,Tropical
+Fever,Malaria,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Global
+Nausea,Food Poisoning,Mild,2 days,"Viral infection, Bacterial infection, Stress","Hydration, Anti-nausea medications",Adults,Tropical
+Fatigue,Anemia,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Iron supplements, Rest",Elderly,Cold climates
+Vomiting,Food Poisoning,Severe,1 week,"Viral infection, Bacterial infection, Stress","Hydration, Anti-nausea medications",Adults,Global
+Vomiting,Gastroenteritis,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Children,Cold climates
+Body Ache,COVID-19,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Elderly,Tropical
+Fever,Malaria,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Global
+Fatigue,COVID-19,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Seasonal
+Vomiting,Food Poisoning,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Hydration, Anti-nausea medications",Adults,Tropical
+Fever,Flu,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Adults,Seasonal
+Sore Throat,Cold,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Adults,Cold climates
+Runny Nose,Cold,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Children,Global
+Fever,Flu,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Elderly,Global
+Headache,Sinusitis,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Tropical
+Runny Nose,Cold,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Children,Cold climates
+Fatigue,Anemia,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Iron supplements, Rest",Adults,Global
+Headache,Sinusitis,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Seasonal
+Body Ache,Chronic Fatigue Syndrome,Mild,1 day,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Tropical
+Shortness of breath,COVID-19,Mild,2 days,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Cold climates
+Headache,Sinusitis,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Seasonal
+Headache,COVID-19,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Cold climates
+Body Ache,Chronic Fatigue Syndrome,Mild,1 day,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Seasonal
+Fatigue,Chronic Fatigue Syndrome,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Seasonal
+Sore Throat,Tonsillitis,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Children,Global
+Runny Nose,Allergies,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Cold climates
+Runny Nose,Cold,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Adults,Cold climates
+Cough,COVID-19,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Cold climates
+Fever,Flu,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Elderly,Cold climates
+Runny Nose,Allergies,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Tropical
+Sore Throat,Cold,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Adults,Global
+Runny Nose,Allergies,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Cold climates
+Fever,Malaria,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Cold climates
+Nausea,Flu,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Adults,Global
+Sore Throat,Tonsillitis,Mild,1 day,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Children,Global
+Vomiting,Gastroenteritis,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Cold climates
+Cough,COVID-19,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Children,Seasonal
+Runny Nose,Cold,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Children,Cold climates
+Sore Throat,COVID-19,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Children,Cold climates
+Body Ache,Flu,Mild,1 day,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Elderly,Global
+Cough,COVID-19,Mild,1 day,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Children,Seasonal
+Fatigue,Chronic Fatigue Syndrome,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Seasonal
+Shortness of breath,COVID-19,Severe,1 week,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Elderly,Cold climates
+Runny Nose,Allergies,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Children,Global
+Cough,Cold,Mild,1 day,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Adults,Cold climates
+Fever,Malaria,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Cold climates
+Fatigue,COVID-19,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Elderly,Global
+Headache,Sinusitis,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Global
+Runny Nose,Cold,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Children,Tropical
+Runny Nose,Allergies,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Global
+Nausea,Flu,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Adults,Global
+Fever,COVID-19,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Cold climates
+Headache,Migraine,Severe,1 week,"Viral infection, Bacterial infection, Stress","Pain relievers, Rest, Hydration",Adults,Cold climates
+Headache,COVID-19,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Seasonal
+Cough,Cold,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Adults,Tropical
+Runny Nose,Cold,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Children,Seasonal
+Vomiting,Food Poisoning,Severe,1 week,"Viral infection, Bacterial infection, Stress","Hydration, Anti-nausea medications",Children,Seasonal
+Headache,Sinusitis,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Tropical
+Fatigue,Chronic Fatigue Syndrome,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Tropical
+Body Ache,COVID-19,Severe,1 week,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Elderly,Seasonal
+Fatigue,Anemia,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Iron supplements, Rest",Elderly,Cold climates
+Headache,Sinusitis,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Seasonal
+Vomiting,Food Poisoning,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Hydration, Anti-nausea medications",Children,Global
+Fever,COVID-19,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Global
+Cough,Flu,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Children,Seasonal
+Nausea,Food Poisoning,Mild,2 days,"Viral infection, Bacterial infection, Stress","Hydration, Anti-nausea medications",Adults,Tropical
+Cough,Bronchitis,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Seasonal
+Nausea,Migraine,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Pain relievers, Rest, Hydration",Adults,Global
+Vomiting,Food Poisoning,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Hydration, Anti-nausea medications",Children,Cold climates
+Fever,Malaria,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Cold climates
+Shortness of breath,Asthma,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Global
+Fever,Flu,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Adults,Cold climates
+Shortness of breath,Pneumonia,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Tropical
+Headache,COVID-19,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Elderly,Global
+Headache,Migraine,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Pain relievers, Rest, Hydration",Adults,Global
+Fever,Flu,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Elderly,Tropical
+Vomiting,Food Poisoning,Severe,1 week,"Viral infection, Bacterial infection, Stress","Hydration, Anti-nausea medications",Adults,Cold climates
+Vomiting,Gastroenteritis,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Children,Tropical
+Fever,Malaria,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Seasonal
+Headache,Sinusitis,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Global
+Sore Throat,Tonsillitis,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Children,Cold climates
+Cough,COVID-19,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Seasonal
+Cough,Cold,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Children,Seasonal
+Runny Nose,Allergies,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Seasonal
+Vomiting,Food Poisoning,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Hydration, Anti-nausea medications",Adults,Cold climates
+Runny Nose,Allergies,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Children,Seasonal
+Cough,COVID-19,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Children,Global
+Headache,Sinusitis,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Global
+Nausea,Food Poisoning,Mild,1 day,"Viral infection, Bacterial infection, Stress","Hydration, Anti-nausea medications",Adults,Seasonal
+Body Ache,COVID-19,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Cold climates
+Vomiting,Food Poisoning,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Hydration, Anti-nausea medications",Children,Seasonal
+Fever,Flu,Mild,1 day,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Adults,Global
+Runny Nose,Allergies,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Global
+Cough,Cold,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Adults,Tropical
+Shortness of breath,Asthma,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Global
+Body Ache,COVID-19,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Elderly,Seasonal
+Shortness of breath,COVID-19,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Global
+Shortness of breath,Asthma,Mild,1 day,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Global
+Body Ache,Flu,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Adults,Cold climates
+Shortness of breath,Asthma,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Cold climates
+Fatigue,Anemia,Severe,1 week,"Viral infection, Bacterial infection, Stress","Iron supplements, Rest",Elderly,Seasonal
+Fatigue,Anemia,Severe,1 week,"Viral infection, Bacterial infection, Stress","Iron supplements, Rest",Elderly,Tropical
+Fatigue,Anemia,Severe,1 week,"Viral infection, Bacterial infection, Stress","Iron supplements, Rest",Adults,Tropical
+Body Ache,Flu,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Adults,Global
+Headache,Migraine,Mild,2 days,"Viral infection, Bacterial infection, Stress","Pain relievers, Rest, Hydration",Elderly,Cold climates
+Fever,Malaria,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Cold climates
+Runny Nose,Cold,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Children,Cold climates
+Sore Throat,COVID-19,Mild,1 day,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Seasonal
+Runny Nose,Cold,Mild,1 day,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Children,Cold climates
+Runny Nose,Cold,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Adults,Global
+Sore Throat,Cold,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Adults,Cold climates
+Sore Throat,Cold,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Children,Global
+Cough,COVID-19,Severe,1 week,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Children,Tropical
+Fatigue,COVID-19,Mild,2 days,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Elderly,Tropical
+Cough,Bronchitis,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Tropical
+Headache,Sinusitis,Mild,1 day,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Cold climates
+Cough,Bronchitis,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Children,Global
+Fatigue,Anemia,Mild,2 days,"Viral infection, Bacterial infection, Stress","Iron supplements, Rest",Elderly,Cold climates
+Fever,Malaria,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Seasonal
+Fever,Flu,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Adults,Cold climates
+Cough,COVID-19,Mild,1 day,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Children,Cold climates
+Shortness of breath,Asthma,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Tropical
+Vomiting,Food Poisoning,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Hydration, Anti-nausea medications",Adults,Global
+Fever,Malaria,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Tropical
+Cough,Flu,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Children,Global
+Sore Throat,Cold,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Adults,Cold climates
+Runny Nose,Cold,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Children,Seasonal
+Shortness of breath,COVID-19,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Global
+Nausea,Migraine,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Pain relievers, Rest, Hydration",Adults,Seasonal
+Shortness of breath,Asthma,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Seasonal
+Sore Throat,Cold,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Children,Cold climates
+Headache,COVID-19,Severe,1 week,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Global
+Sore Throat,Cold,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Children,Global
+Fever,Flu,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Elderly,Cold climates
+Shortness of breath,Pneumonia,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Tropical
+Fever,Malaria,Mild,1 day,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Global
+Shortness of breath,Asthma,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Cold climates
+Headache,COVID-19,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Tropical
+Fatigue,Anemia,Severe,1 week,"Viral infection, Bacterial infection, Stress","Iron supplements, Rest",Elderly,Global
+Nausea,Food Poisoning,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Hydration, Anti-nausea medications",Adults,Cold climates
+Vomiting,Food Poisoning,Severe,1 week,"Viral infection, Bacterial infection, Stress","Hydration, Anti-nausea medications",Adults,Cold climates
+Headache,Stress,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Cold climates
+Fatigue,Chronic Fatigue Syndrome,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Seasonal
+Vomiting,Food Poisoning,Mild,1 day,"Viral infection, Bacterial infection, Stress","Hydration, Anti-nausea medications",Children,Global
+Runny Nose,Cold,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Children,Tropical
+Nausea,Food Poisoning,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Hydration, Anti-nausea medications",Adults,Cold climates
+Vomiting,Gastroenteritis,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Children,Cold climates
+Nausea,Migraine,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Pain relievers, Rest, Hydration",Adults,Cold climates
+Body Ache,Flu,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Adults,Seasonal
+Cough,COVID-19,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Global
+Fever,Malaria,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Global
+Sore Throat,Tonsillitis,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Tropical
+Fever,Flu,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Elderly,Cold climates
+Body Ache,COVID-19,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Elderly,Tropical
+Sore Throat,Cold,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Adults,Cold climates
+Nausea,Migraine,Severe,1 week,"Viral infection, Bacterial infection, Stress","Pain relievers, Rest, Hydration",Adults,Tropical
+Runny Nose,Cold,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Adults,Tropical
+Cough,COVID-19,Mild,2 days,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Global
+Fever,COVID-19,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Global
+Body Ache,COVID-19,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Global
+Sore Throat,Tonsillitis,Mild,1 day,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Global
+Vomiting,Gastroenteritis,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Children,Cold climates
+Shortness of breath,Asthma,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Tropical
+Cough,Cold,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Adults,Global
+Vomiting,Gastroenteritis,Mild,1 day,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Children,Cold climates
+Fatigue,Chronic Fatigue Syndrome,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Seasonal
+Vomiting,Gastroenteritis,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Tropical
+Runny Nose,Cold,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Adults,Cold climates
+Runny Nose,Allergies,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Children,Cold climates
+Fatigue,COVID-19,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Elderly,Cold climates
+Headache,Sinusitis,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Tropical
+Headache,Migraine,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Pain relievers, Rest, Hydration",Adults,Seasonal
+Sore Throat,Tonsillitis,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Seasonal
+Shortness of breath,Asthma,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Global
+Fever,Flu,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Adults,Seasonal
+Fatigue,Chronic Fatigue Syndrome,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Tropical
+Fatigue,Anemia,Severe,1 week,"Viral infection, Bacterial infection, Stress","Iron supplements, Rest",Elderly,Seasonal
+Vomiting,Gastroenteritis,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Children,Cold climates
+Sore Throat,Cold,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Children,Global
+Headache,Sinusitis,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Global
+Fever,Malaria,Mild,1 day,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Tropical
+Nausea,Migraine,Severe,1 week,"Viral infection, Bacterial infection, Stress","Pain relievers, Rest, Hydration",Adults,Seasonal
+Sore Throat,Cold,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Adults,Global
+Vomiting,Gastroenteritis,Mild,1 day,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Tropical
+Sore Throat,Cold,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Adults,Cold climates
+Body Ache,Chronic Fatigue Syndrome,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Seasonal
+Sore Throat,COVID-19,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Cold climates
+Fatigue,Anemia,Severe,1 week,"Viral infection, Bacterial infection, Stress","Iron supplements, Rest",Elderly,Global
+Cough,Bronchitis,Mild,1 day,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Children,Cold climates
+Fatigue,Chronic Fatigue Syndrome,Mild,1 day,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Seasonal
+Shortness of breath,Pneumonia,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Global
+Fatigue,COVID-19,Severe,1 week,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Elderly,Cold climates
+Shortness of breath,Asthma,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Seasonal
+Body Ache,Flu,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Adults,Cold climates
+Sore Throat,Cold,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Adults,Seasonal
+Body Ache,COVID-19,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Elderly,Tropical
+Vomiting,Gastroenteritis,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Cold climates
+Fever,COVID-19,Mild,1 day,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Elderly,Global
+Shortness of breath,Pneumonia,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Global
+Sore Throat,Tonsillitis,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Children,Seasonal
+Vomiting,Gastroenteritis,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Children,Global
+Nausea,Flu,Mild,1 day,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Adults,Seasonal
+Vomiting,Food Poisoning,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Hydration, Anti-nausea medications",Adults,Global
+Vomiting,Gastroenteritis,Mild,1 day,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Seasonal
+Body Ache,COVID-19,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Global
+Fever,Malaria,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Tropical
+Cough,COVID-19,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Tropical
+Sore Throat,Tonsillitis,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Seasonal
+Runny Nose,Allergies,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Children,Seasonal
+Vomiting,Food Poisoning,Mild,1 day,"Viral infection, Bacterial infection, Stress","Hydration, Anti-nausea medications",Children,Tropical
+Fever,Malaria,Mild,1 day,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Cold climates
+Nausea,Migraine,Severe,1 week,"Viral infection, Bacterial infection, Stress","Pain relievers, Rest, Hydration",Adults,Seasonal
+Shortness of breath,COVID-19,Mild,1 day,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Seasonal
+Cough,Flu,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Children,Global
+Sore Throat,Tonsillitis,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Children,Global
+Fatigue,Chronic Fatigue Syndrome,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Seasonal
+Runny Nose,Allergies,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Children,Seasonal
+Shortness of breath,Pneumonia,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Cold climates
+Shortness of breath,Asthma,Mild,1 day,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Tropical
+Sore Throat,COVID-19,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Cold climates
+Body Ache,Flu,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Elderly,Tropical
+Cough,Cold,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Adults,Cold climates
+Runny Nose,Cold,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Adults,Tropical
+Shortness of breath,Pneumonia,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Seasonal
+Body Ache,Flu,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Elderly,Seasonal
+Vomiting,Gastroenteritis,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Seasonal
+Fatigue,Chronic Fatigue Syndrome,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Global
+Fatigue,Anemia,Mild,1 day,"Viral infection, Bacterial infection, Stress","Iron supplements, Rest",Elderly,Cold climates
+Runny Nose,Cold,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Children,Tropical
+Runny Nose,Allergies,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Cold climates
+Vomiting,Food Poisoning,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Hydration, Anti-nausea medications",Adults,Global
+Vomiting,Gastroenteritis,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Seasonal
+Shortness of breath,COVID-19,Severe,1 week,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Tropical
+Body Ache,COVID-19,Mild,1 day,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Elderly,Tropical
+Headache,Stress,Mild,1 day,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Global
+Fatigue,Anemia,Mild,1 day,"Viral infection, Bacterial infection, Stress","Iron supplements, Rest",Elderly,Seasonal
+Sore Throat,COVID-19,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Children,Cold climates
+Cough,Cold,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Children,Tropical
+Fatigue,Anemia,Mild,2 days,"Viral infection, Bacterial infection, Stress","Iron supplements, Rest",Adults,Global
+Body Ache,COVID-19,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Seasonal
+Fatigue,Anemia,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Iron supplements, Rest",Elderly,Tropical
+Cough,COVID-19,Mild,1 day,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Children,Cold climates
+Fever,Malaria,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Global
+Runny Nose,Allergies,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Children,Global
+Body Ache,COVID-19,Mild,1 day,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Cold climates
+Fever,Malaria,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Tropical
+Body Ache,COVID-19,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Seasonal
+Fatigue,Anemia,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Iron supplements, Rest",Elderly,Seasonal
+Runny Nose,Allergies,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Global
+Fever,Flu,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Elderly,Cold climates
+Headache,Migraine,Mild,2 days,"Viral infection, Bacterial infection, Stress","Pain relievers, Rest, Hydration",Adults,Seasonal
+Sore Throat,COVID-19,Severe,1 week,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Seasonal
+Sore Throat,Tonsillitis,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Tropical
+Cough,Flu,Mild,1 day,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Children,Tropical
+Runny Nose,Cold,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Children,Cold climates
+Body Ache,Flu,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Adults,Cold climates
+Cough,Bronchitis,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Adults,Tropical
+Fatigue,COVID-19,Mild,2 days,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Elderly,Tropical
+Headache,COVID-19,Severe,1 week,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Elderly,Seasonal
+Fatigue,COVID-19,Mild,1 day,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Seasonal
+Sore Throat,Cold,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Adults,Cold climates
+Shortness of breath,Asthma,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Cold climates
+Shortness of breath,Pneumonia,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Seasonal
+Cough,Flu,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Children,Seasonal
+Fatigue,Anemia,Mild,1 day,"Viral infection, Bacterial infection, Stress","Iron supplements, Rest",Adults,Global
+Runny Nose,Cold,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Children,Seasonal
+Body Ache,COVID-19,Severe,1 week,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Elderly,Cold climates
+Sore Throat,Cold,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Adults,Global
+Vomiting,Food Poisoning,Moderate,1 week,"Viral infection, Bacterial infection, Stress","Hydration, Anti-nausea medications",Children,Seasonal
+Cough,COVID-19,Severe,1 week,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Adults,Seasonal
+Body Ache,Flu,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Pain relievers",Elderly,Cold climates
+Cough,Bronchitis,Severe,1 week,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Children,Cold climates
+Nausea,Food Poisoning,Severe,Several weeks,"Viral infection, Bacterial infection, Stress","Hydration, Anti-nausea medications",Adults,Cold climates
+Fatigue,Anemia,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Iron supplements, Rest",Elderly,Cold climates
+Sore Throat,Cold,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration, Decongestants",Adults,Seasonal
+Sore Throat,COVID-19,Moderate,2-3 days,"Viral infection, Bacterial infection, Stress","Oxygen therapy, Rest, Hydration",Children,Global
+Fatigue,Chronic Fatigue Syndrome,Mild,2 days,"Viral infection, Bacterial infection, Stress","Rest, Hydration",Elderly,Tropical
